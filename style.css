@@ -1,0 +1,162 @@
+.contact,.helpdesk,.login{
+    color: white !important;
+  }
+  .topbar{
+    background-color: #ff0000;
+  }
+  .QECLogo{
+    margin-left: 100px !important;
+  }
+  .navbar{
+    background-color: white !important;
+    height: 80px;
+  }
+  .navbar-brand{
+    margin-left: 100px;
+  }
+  .nav-link{
+    color: #ff0000 !important;
+    font-weight: bold;
+    margin-right: 30px;
+  }
+  .nav-link:hover,.btn:hover{ 
+    color: white !important;
+    border-radius: 20px 0px 20px 0px;
+    background-color: #ff0000;
+    font-weight: bold;
+  }
+  .activetab{
+    color: white !important;
+    border-radius: 20px 0px 20px 0px;
+    background-color: #ff0000;
+    font-weight: bold;
+  }
+  .navbar-nav{
+    margin-left: 200px !important;
+  }
+  .navbar-collapse{
+    text-align: center !important;
+  }
+  .nav-item{
+    align-content: center !important;
+  }
+  .slider{
+    margin-top: -20px;
+  }
+  .studentlogin,.contactnumber,.help{
+    text-align: Center;
+  }
+  .cards{
+    background-color: white; 
+    border: 1px solid rgba(0,0,0,.125); 
+    border-radius: .25rem;
+  }
+  .classesheading{
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    text-align: center;
+    color : #ff0000 !important;
+    font-size: 35px;
+    font-weight: bold;
+  }
+  .btn{
+    background-color: white;
+    border-radius: 20px 0px 20px 0px;
+    color: #ff0000;
+    margin-bottom: 20px;
+    font-weight: bolder;
+  }
+  .container{
+    text-align: center;
+    background-color: rgba(14, 50, 53, 0.082);
+  }
+  .card-title{
+    color: #ff0000;
+    font-weight: bold;
+  }
+  .footer{
+    color: white;
+    background-color: #ff0000;
+  }
+  .socialmedia{
+    color: white;
+  }
+  .socialmedia:hover{
+    color: white;
+  }
+  .row{
+    margin-right: 0px !important;
+  }
+  .rowstyle{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+  }
+  .coordinatorsnames{
+    color: #ff0000;
+  }
+  .salientfeatures{
+    text-align: left !important;
+    margin-bottom: 40px;
+  }
+  .arr{
+    color:#ff0000;
+  }
+  .footertext,.AdmissionProcedureStepstext{
+    color: #363b3f !important;
+  }
+  .linkunderlineonhover:hover{
+    
+    text-decoration: underline;
+    text-decoration-color: red !important;
+  }
+  .footerheading{
+    color: #ff0000;
+    margin-top: 20px;
+  }
+  .copyrighttext{
+    color: #ff0000;
+  }
+  .socialmediabar{
+    margin-left:30% !important; 
+    width: 40%; 
+    color: white; 
+    background-color: #ff0000;
+  }
+  .steps{
+    height: 25px;
+    width: 25px;
+    margin-left: 43.5%;
+    margin-bottom: 13px;
+    color:white;
+    background-color: #7e7975 !important;
+    border-radius: 15px;
+  }
+  .classesheading {
+    background-color: #ff0000;
+    border-radius: 20px 0px 20px 0px;
+    color: white !important;
+    font-weight: bolder;
+  }
+  .contactfields{
+    text-align: left;
+  }
+  @media only screen and (max-width: 992px) {
+    .navbar-nav {
+      margin-left: 0px !important;
+    }
+    .navbar{
+      height: 100%;
+    }
+    .AdmissionProcedureStepstext{
+      font-size: x-large;
+    }
+    /* .QECLogo{
+      margin-left: auto !important;
+    } */
+  }
+  @media only screen and (max-width: 992px) {
+    .QECLogo{
+      margin-left: initial !important;
+    }
+  }
+  
